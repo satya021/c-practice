@@ -1,15 +1,14 @@
 #include<stdio.h>
 
-#include<conio.h>
- #include<math.h>
+#include<conio.h> #include<math.h>
 
-#include <graphics.h>
+#include<graphics.h>>
 
 void main()
 
 {
 
-float m,x1,y1,x2,y2; int x,y;
+float m,x1,y1,x2,y2; int x,y:
 
 int gdriver=DETECT,gmode,gerror;
 
@@ -27,7 +26,7 @@ printf("Enter the value of y2"); scanf("%f",&y2);
 
 initgraph(&gdriver,&gmode,"C:\\TC\\BGI");
 
-m=(y2-y1)/(x2-x1); for(x=1;x<=x2; x++);
+m=(y2-y1)/(x2-x1); for(x=1;x<=x2; x++)
 
 {
 
