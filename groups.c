@@ -4,7 +4,7 @@ int main()
 {
     char * student[46][30]; //Define a 2D array of 46 rows and 30 columns containing student names
 
-    //Initialize the array
+    //Initialize the array 
 
     char *s1 = "01:- Adyesh (ab)";
     char *s2 = "02:- Amit (L)";
@@ -26,7 +26,7 @@ int main()
     char *s18 = "19:- Mousumi";
     char *s19 = "20:- Nursingh (ab)";
     char *s20 = "21:- Bikram";
-    char *s21 = "22:- Partha";
+    char *s21 = "22:- Partha Darling";
     char *s22 = "23:- Pratik";
     char *s23 = "25:- Rachana";
     char *s24 = "26:- Rajat";
@@ -41,7 +41,7 @@ int main()
     char *s33 = "35:- Soujyana (IM)";
     char *s34 = "36:- Soumya (IM)";
     char *s35 = "37:- Sourav (ab)";
-    char *s36 = "38:- Swagatika";
+    char *s36 = "38:- Swagatika (IM)";
     char *s37 = "39:- Swati";
     char *s38 = "40:- Sushree (IM)";
     char *s39 = "41:- Tapaswini";
@@ -101,70 +101,72 @@ int main()
 
     //End of assigning values
 
+/*
+    // printf("\n----------Pranati Mam Group 1----------\n\n"); //Pranati ma'am's group
 
-    printf("----------Pranati Mam Group 1----------\n\n"); //Pranati ma'am's group
+    // for(int i=1; i<=21; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
 
-    for(int i=1; i<=21; i+=4)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
+    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
 
-    printf("----------Group 2----------\n\n\n"); //Print the group 2
-
-    for(int i=25; i<=41; i+=4)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
+    // for(int i=25; i<=41; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
 
 
-    printf("----------Manisha Mam Group 1----------\n\n"); //Manisha ma'am's group
+    // printf("\n----------Manisha Mam Group 1----------\n\n"); //Manisha ma'am's group
+   
+    // for(int i=2; i<=22; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
 
-    for(int i=2; i<=16; i+=4)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
+    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
 
-    printf("----------Group 2----------\n\n\n"); //Print the group 2
+    // for(int i=26; i<=42; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
 
-    for(int i=26; i<=42; i+=4)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
+    // printf("\n----------Archana Mam Group 1----------\n\n"); //Archana ma'am's group 1
 
-    printf("----------Archana Mam Group 1----------\n\n"); //Archana ma'am's group 1
+    // for(int i=3; i<=25; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
 
-    for(int i=3; i<=17; i+=4)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
+    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
 
-    printf("----------Group 2----------\n\n\n"); //Print the group 2
+    // for(int i=27; i<=43; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
 
-    for(int i=27; i<=43; i+=3)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
+    // printf("\n----------Swetalina Mam Group 1----------\n\n");  //Swetalina ma'am's group 1
 
-    printf("----------Swetalina Mam Group 1----------\n\n");  //Swetalina ma'am's group 1
+    // for(int i=4; i<=26; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
 
-    for(int i=4; i<=18; i+=3)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
+    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
 
-    printf("----------Group 2----------\n\n\n"); //Print the group 2
+    // for(int i=28; i<=44; i+=4)
+    // {
+    //     printf("%s", student[i][0]);
+    //     printf("\n");
+    // }
+    */
 
-    for(int i=28; i<=44; i+=3)
-    {
-        printf("%s", student[i][0]);
-        printf("\n");
-    }
-
+    
 }
