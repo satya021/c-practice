@@ -101,72 +101,71 @@ int main()
 
     //End of assigning values
 
-/*
-    // printf("\n----------Pranati Mam Group 1----------\n\n"); //Pranati ma'am's group
 
-    // for(int i=1; i<=21; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
+    printf("\n----------Pranati Mam Group 1----------\n\n"); //Pranati ma'am's group
 
-    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
+    for(int i=1; i<=21; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
-    // for(int i=25; i<=41; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
+    printf("\n----------Group 2----------\n\n\n"); //Print the group 2
+
+    for(int i=25; i<=41; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
 
-    // printf("\n----------Manisha Mam Group 1----------\n\n"); //Manisha ma'am's group
+    printf("\n----------Manisha Mam Group 1----------\n\n"); //Manisha ma'am's group
    
-    // for(int i=2; i<=22; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
+    for(int i=2; i<=22; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
-    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
+    printf("\n----------Group 2----------\n\n\n"); //Print the group 2
 
-    // for(int i=26; i<=42; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
+    for(int i=26; i<=42; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
-    // printf("\n----------Archana Mam Group 1----------\n\n"); //Archana ma'am's group 1
+    printf("\n----------Archana Mam Group 1----------\n\n"); //Archana ma'am's group 1
 
-    // for(int i=3; i<=25; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
+    for(int i=3; i<=25; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
-    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
+    printf("\n----------Group 2----------\n\n\n"); //Print the group 2
 
-    // for(int i=27; i<=43; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
+    for(int i=27; i<=43; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
-    // printf("\n----------Swetalina Mam Group 1----------\n\n");  //Swetalina ma'am's group 1
+    printf("\n----------Swetalina Mam Group 1----------\n\n");  //Swetalina ma'am's group 1
 
-    // for(int i=4; i<=26; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
+    for(int i=4; i<=26; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
-    // printf("\n----------Group 2----------\n\n\n"); //Print the group 2
+    printf("\n----------Group 2----------\n\n\n"); //Print the group 2
 
-    // for(int i=28; i<=44; i+=4)
-    // {
-    //     printf("%s", student[i][0]);
-    //     printf("\n");
-    // }
-    */
+    for(int i=28; i<=44; i+=4)
+    {
+        printf("%s", student[i][0]);
+        printf("\n");
+    }
 
-    
+
 }
